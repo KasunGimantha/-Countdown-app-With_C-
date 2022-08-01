@@ -8,11 +8,13 @@ int main() {
     
 for(int i=n ; i>0 ; i--){
     
+    
     if(i%5){
     cout << i << endl;
     }
     else{
-        cout<<"beep"<<endl;
+        cout<<i<<endl;
+        cout<<"Beep"<<endl;
     }
     
   
